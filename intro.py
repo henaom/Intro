@@ -12,8 +12,8 @@ st.image(image, caption="Lo que vamos a soñar")
 text = st.text_input("Escribe algo, "Este es mi texto")
 st.write("El texto escrito es", texto)
 
-st.subheander("Ahora usemos 2 columbas")
+st.subheander("Ahora usemos 2 columbnas")
 
-col1, col2 = st.columnas(2)
+col1, col2 = st.columns(2)
 
 
