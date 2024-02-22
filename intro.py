@@ -10,7 +10,7 @@ image=Image.open("morchis1.jpeg")
 st.image(image, caption="Lo que vamos a soñar")
 
 text = st.text_input("Escribe algo", "Este es mi texto")
-st.write("El texto escrito es", texto)
+st.write("El texto escrito es", text)
 
 st.subheander("Ahora usemos 2 columbnas")
 
