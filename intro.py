@@ -16,3 +16,4 @@ st.subheander("Ahora usemos 2 columbas")
 
 col1, col2 = st.columnas(2)
 
+
